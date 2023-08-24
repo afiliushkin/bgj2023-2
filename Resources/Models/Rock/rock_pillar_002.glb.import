@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dgn10cyljmvk"
-path="res://.godot/imported/rock_pillar_001.glb-199be25b6f18a632dbb7766c14a79cab.scn"
+uid="uid://c0oxqteppsy5q"
+path="res://.godot/imported/rock_pillar_002.glb-6f24ceb140fdb0ea34a028be6fc866c8.scn"
 
 [deps]
 
-source_file="res://Resources/Models/rock_pillar_001.glb"
-dest_files=["res://.godot/imported/rock_pillar_001.glb-199be25b6f18a632dbb7766c14a79cab.scn"]
+source_file="res://Resources/Models/Rock/rock_pillar_002.glb"
+dest_files=["res://.godot/imported/rock_pillar_002.glb-6f24ceb140fdb0ea34a028be6fc866c8.scn"]
 
 [params]
 
@@ -35,10 +35,10 @@ _subresources={
 }
 },
 "meshes": {
-"rock_pillar_001_pillar_001": {
+"rock_pillar_002_RockPillar002": {
 "generate/lightmap_uv": 1,
 "generate/lods": 0,
-"generate/shadow_meshes": 1,
+"generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 60.0,
 "lods/normal_split_angle": 25.0,
 "save_to_file/enabled": false,

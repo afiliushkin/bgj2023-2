@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://c34lrvc0v0dv"
-path="res://.godot/imported/rock_pillar_003.glb-e8177aee3bb511b6d5a1683040bf7c33.scn"
+uid="uid://bjq23hnfcjpfy"
+path="res://.godot/imported/rock_wall_003.glb-87f3abc4de78253157f9818e7bcdead0.scn"
 
 [deps]
 
-source_file="res://Resources/Models/rock_pillar_003.glb"
-dest_files=["res://.godot/imported/rock_pillar_003.glb-e8177aee3bb511b6d5a1683040bf7c33.scn"]
+source_file="res://Resources/Models/Rock/rock_wall_003.glb"
+dest_files=["res://.godot/imported/rock_wall_003.glb-87f3abc4de78253157f9818e7bcdead0.scn"]
 
 [params]
 
@@ -20,7 +20,7 @@ nodes/root_scale=1.0
 meshes/ensure_tangents=true
 meshes/generate_lods=true
 meshes/create_shadow_meshes=true
-meshes/light_baking=2
+meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
 skins/use_named_skins=true
 animation/import=true
@@ -29,16 +29,11 @@ animation/trimming=false
 animation/remove_immutable_tracks=true
 import_script/path=""
 _subresources={
-"materials": {
-"@MATERIAL:0": {
-"use_external/enabled": true
-}
-},
 "meshes": {
-"rock_pillar_003_pillar_003": {
+"rock_wall_003_RockWall003": {
 "generate/lightmap_uv": 1,
 "generate/lods": 0,
-"generate/shadow_meshes": 1,
+"generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 60.0,
 "lods/normal_split_angle": 25.0,
 "save_to_file/enabled": false,
